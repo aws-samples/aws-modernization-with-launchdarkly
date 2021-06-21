@@ -6,7 +6,7 @@ weight: 14
 
 ## Fork the source repository
 
-Fork this [GitHub repository](https://github.com/BrianJayChung/ld-aws-workshop-ss), this repo contains the application which will be used by App Runner as the source code repository (AWS Connector is used here).
+Fork this [GitHub repository](https://github.com/launchdarkly-labs/ld-aws-workshop-module1-app), this repo contains the application which will be used by App Runner as the source code repository (AWS Connector is used here).
 
 
 ## Create a LaunchDarkly account
