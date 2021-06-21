@@ -16,6 +16,6 @@ This workshop is broken into the sections list below.  Estimated time for comple
 
 Module 1:
 
-- **Prerequisites**  ***(5~10 minutes)*** Github account, access to AWS App Runner with proper permissions, LaunchDarkly trial account
+- **Prerequisites**  ***(5~10 minutes)*** Github account, access to AWS App Runner with proper permissions, LaunchDarkly account or trial account
 - **Setup** ***(15~30 minutes)*** Set up Github, AppRunner, and create a LaunchDarkly account (free)
 - **LaunchDarkly Feature Management** ***(5 minutes)*** Set up feature flags in LaunchDarkly and perform a feature release using a feature flag

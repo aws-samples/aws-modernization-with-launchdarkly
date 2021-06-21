@@ -12,7 +12,7 @@ There are a few prerequisite tasks you must perform before getting started on th
 
 1. An AWS account with proper permissions
 1. A Github account
-1. A LaunchDarkly trial account
+1. A LaunchDarkly account or trial account
 
 In the next section, there will be instructions on how to set everything up, step by step.
 

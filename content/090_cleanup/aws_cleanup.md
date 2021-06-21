@@ -6,7 +6,7 @@ weight: 91
 ---
 
 ## Delete an App Runner Application
-Here is how to delete the EKS Cluster you've provisioned:
+Here is how to delete the App Runner application you've provisioned:
 
 1. Go to your App Runner Service
 1. Select the service created previously - we named this "my-aws-workshop-app"

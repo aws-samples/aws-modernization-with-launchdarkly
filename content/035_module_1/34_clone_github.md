@@ -11,9 +11,9 @@ Fork this [GitHub repository](https://github.com/launchdarkly-labs/ld-aws-worksh
 
 ## Create a LaunchDarkly account
 
-1 . Access this [page](https://launchdarkly.com/start-trial/) and sign up for a free LaunchDarkly account
+1 . Sign up for a free LaunchDarkly account through the AWS market place [page](https://aws.amazon.com/marketplace/pp/prodview-x22m6p4lybzwe)
 
-<img src=/images/setup/ld_trial.png>
+<img src=/images/setup/ld-aws-marketplace.png>
 
 2 . Navigate to the [Account settings/Projects tab](https://app.launchdarkly.com/settings/projects) and copy the **client-side ID** for the Production environment -- this will be used as a part of the App Runner configuration
 <img src=/images/setup/ld_client_id.png>
