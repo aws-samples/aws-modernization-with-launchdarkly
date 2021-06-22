@@ -26,7 +26,7 @@ For this example, we are going to specify all the settings for our service manua
 
 Select “Configure all settings here”, then underneath Runtime select “Python 3” from the dropdown.
 
-Under Build commend, enter `pip install -r requirservice-ements.txt`.
+Under Build commend, enter `pip install -r requirements.txt`.
 
 Under Start command, enter `python app/server.py`.
 
@@ -36,9 +36,9 @@ Select ‘Next’ to continue.
 
 ![Source Service](/images/setup/service-deployment3.png)
 
-In this step we will give our new service a name - `my-aws-workshop-aa`. 
+In this step we will give our new service a name - `my-aws-workshop-app`.
 
-Under Environment variables, enter the Key as `CLIENT_ID`, and the vaule as the client-side ID from the LaunchDarkly.
+Under Environment variables, enter the Key as `CLIENT_ID`, and the value as the client-side ID from the LaunchDarkly.
 
 Leave the rest of these settings as defaults.
 

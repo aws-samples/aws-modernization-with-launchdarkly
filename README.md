@@ -1,17 +1,23 @@
-## My Project
+# AWSWorkshop.io Workshop - LaunchDarkly
 
-TODO: Fill this README out!
+This is the repository to generate the AWS/LaunchDarkly Workshop from and execute with Hugo.
 
-Be sure to:
+## To Execute.
+Hugo is leveraged as the site generator. https://gohugo.io/about/what-is-hugo/
 
-* Change the title in this README
-* Edit your repository description on GitHub
+```
+#Clone Repo
+gh repo clone launchdarkly-labs/aws-modernization-with-launchdarkly
 
-## Security
+#Install Hugo
+brew install hugo
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+#Download submodules
+git submodule init
+git submodule update
 
-## License
+#Execute Hugo on Root of Local Clone Repo
+hugo server
+```
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+-LaunchDarkly Team
