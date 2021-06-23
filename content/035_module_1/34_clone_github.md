@@ -11,7 +11,7 @@ Fork this [GitHub repository](https://github.com/launchdarkly-labs/ld-aws-worksh
 
 ## Create a LaunchDarkly account
 
-1 . Sign up for a free LaunchDarkly account through the AWS market place [page](https://aws.amazon.com/marketplace/pp/prodview-x22m6p4lybzwe)
+1 . Sign up for a free LaunchDarkly account through the AWS Marketplace [page](https://aws.amazon.com/marketplace/pp/prodview-x22m6p4lybzwe?trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace)
 
 <img src=/images/setup/ld-aws-marketplace.png>
 
