@@ -9,7 +9,7 @@ weight: 1
 
 ### Welcome
 
-This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience in using LaunchDarkly to dynamically modify and release new application features through the use of feature flags. You will also learn to deploy an application using GitHub and AWS App Runner.
+This hands-on lab is part of the AWS Marketplace DevOps Workshop Series. In this lab, you will gain experience in using LaunchDarkly to release new features in an application using feature flags. You will create feature flags in LaunchDarkly, managing user targeting rules, and enable the feature based on those targets. You will also learn to deploy the application using GitHub and AWS App Runner.
 
 LaunchDarkly is a feature management and experimentation platform that enables all teams to safely deliver and control software through feature flags.
 

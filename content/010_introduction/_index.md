@@ -8,7 +8,7 @@ weight: 1
 Today we are going to learn the following topics:
 
 - Module 1: Learn to use AWS App Runner to deploy an application, release a feature using a feature flag.
-- Module 2: (coming soon)
+<!-- - Module 2: (coming soon) -->
 
 # Workshop Structure
 
@@ -16,6 +16,7 @@ This workshop is broken into the sections list below.  Estimated time for comple
 
 Module 1:
 
-- **Prerequisites**  ***(5~10 minutes)*** Github account, access to AWS App Runner with proper permissions, LaunchDarkly account or trial account
-- **Setup** ***(15~30 minutes)*** Set up Github, AppRunner, and create a LaunchDarkly account (free)
-- **LaunchDarkly Feature Management** ***(5 minutes)*** Set up feature flags in LaunchDarkly and perform a feature release using a feature flag
+- **Prerequisites**  ***(5~10 minutes)*** Github account, access to AWS App Runner with proper permissions, LaunchDarkly account (either production or Trial)
+- **Setup** ***(15~30 minutes)*** Set up Github and fork the existing repository, Configure the application to run in AWS App Runner, and create a LaunchDarkly account (free)
+- **Configure LaunchDarkly Feature Management** ***(15 minutes)*** Create and perform your first feature release using feature flags in LaunchDarkly, create and release another feature flag using targeting rules 
+

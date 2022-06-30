@@ -9,13 +9,13 @@ weight: 4
 
 ### Welcome
 
-In this workshop we will learn to perform a "dark release" of a new feature in our demo application using AWS App Runner.
+In this workshop we will learn to perform a feature release of new features in our demo application, while its running live on AWS App Runner. Once we learn how to create and release features, we'll leverage user targeting to influence which users can consume additonal features. This method of software release is referred to as "dark launching" and it allows developers to release code to different user cohorts without changing their expereince or redeploying the application code. 
 
-At your company, ABC, you are releasing a new custom dashboard and your mission is to deliver this new feature as reliably, quickly and safely as you can. Using a LaunchDarkly feature flag, you will be able to decouple release from deploy and dynamically manage this feature release through a feature flag.
+In our applicatiom, we'll use these feature flags to demonstrate delivering these new features reliably, quickly and safely.
 
-![Source Service](/images/setup/module-1-new-feature.png)
+![Source Service](/images/setup/banner.png)
 
-This master will walk through deploying a demo application using AWS App Runner, and setting up a LaunchDarkly feature flag to control the release of the new feature through a feature flag
+In the next steps we'll step through deploying our demo application into AWS App runner. 
 
 ### Learning Objectives
 - How to set up AWS App Runner and deploy an application
