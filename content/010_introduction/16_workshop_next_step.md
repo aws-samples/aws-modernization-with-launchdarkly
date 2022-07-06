@@ -1,5 +1,5 @@
 ---
-title: "Workshop Next Steps"
+title: "Workshop Prerequisites"
 chapter: true
 weight: 16
 ---
@@ -10,9 +10,9 @@ There are a few prerequisite tasks you must perform before getting started on th
 
 [comment]: <> (Feel free to add any other prerequisite tasks that is related to your workshop)
 
-1. An AWS account with proper permissions
-1. A [Github](https://github.com/login) account
-1. A LaunchDarkly account or trial account. You can login or sign up [here](https://app.launchdarkly.com/)
+1. An AWS account with proper permissions - you will be working with AWS Console in the browser page
+1. A [Github](https://github.com/login) account - prepare and keep it open in the browser page
+1. [A LaunchDarkly account or trial account](030_getting_started/31_setup_ld_account.html), and make sure to keep *client-side ID* nearby
 
 In the next section, there will be instructions on how to set everything up, step by step.
 

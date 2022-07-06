@@ -7,12 +7,12 @@ weight: 1
 # Learning Objectives
 Today we are going to learn the following topics:
 
-- Module 1: Learn to use AWS App Runner to deploy an application, release a feature using a feature flag.
+- [Module 1: Learn to use AWS App Runner to deploy an application, release a feature using a feature flag](035_module_1.html)
 <!-- - Module 2: (coming soon) -->
 
 # Workshop Structure
 
-This workshop is broken into the sections list below.  Estimated time for completing the workshop is less than 1 hour.
+This workshop is broken into the sections below.  Estimated time for completing the workshop is less than 1 hour. In the beginning of the workshop we will talk about the challenges developers facing to release new functionality, and how LaunchDarkly helps to address those.
 
 Module 1:
 
