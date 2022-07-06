@@ -7,12 +7,11 @@ weight: 2
 
 # Self-Paced Workshop
 
-Welcome to the Self Guided Setup section! This workshop requires an AWS account where there is IAM user/identity that has proper permissions to set up the necessary AWS components to work through the workshop. Worried about costs associated with this workshop? Don't worry, there's a page that will allow you to request for AWS credits to pay for any costs incurred through this workshop!
+Welcome to the Self Guided Setup section! This workshop requires an AWS account where there is IAM user/identity that has proper permissions to set up the necessary AWS components to work through the workshop. 
 
 Here is a preview of what we will be setting up:
 ## Getting Started
-1. Creating an AWS account with proper permissions
-1. Requesting AWS credit from AWS Marketplace
+- [Creating an AWS account with proper permissions](030_getting_started/30_aws_setup_your_own.html)
 
 ## Module 1 - LaunchDarkly Feature Flag
 1. Cloning the Github source repository for this workshop

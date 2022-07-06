@@ -1,5 +1,5 @@
 ---
-title: "1. AWS Account Setup"
+title: "AWS Account Setup"
 chapter: true
 weight: 10
 ---
@@ -7,10 +7,6 @@ weight: 10
 ## Setting up your AWS account
 
 {{% children %}}
-
-{{% notice warning %}}
-You are responsible for the cost of the AWS services used while running this workshop in your AWS account. We highly recommend you to go to the [request AWS credit page](https://pages.awscloud.com/awsmp-wsm-dev-workshop-series-credit-request.html?trk=lab_launchdarkly) so you can run this workshop without any charge to you.
-{{% /notice %}}
 
 1. If you don't already have an AWS account with Administrator access: [create
 one now by clicking here](https://aws.amazon.com/getting-started/)
