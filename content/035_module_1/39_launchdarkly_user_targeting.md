@@ -8,7 +8,7 @@ weight: 18
 
 In our previous exercise we enabled a LaunchDarkly feature flag that changed the visual look of our application. We can see a new banner displayed, as well as a logon box. 
 
-The ReacJS based application that is currently running in AWS App Runner supports targeting based on several properties 
+The ReactJS based application that is currently running in AWS App Runner supports targeting based on several properties 
 
 - The entered user name in the logon box 
 - The device OS connecting to the application
