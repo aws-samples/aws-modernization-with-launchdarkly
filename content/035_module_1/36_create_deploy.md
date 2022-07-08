@@ -31,6 +31,7 @@ On the next step we will provide
 - Service name `my-aws-workshop-app`
 - Under Environment variables, enter the Key as `REACT_APP_LD_CLIENT_ID`, and the value as the LaunchDarkly's *client-side ID* (see [Launchdakly Account Setup](030_getting_started/31_setup_ld_account.html))
 
+
 Leave the rest of these settings as defaults, and click **Next** to continue.
 
 ![Source Service](/images/setup/configure-service.png)
