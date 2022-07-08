@@ -31,7 +31,7 @@ Select ‘Next’ to continue.
 
 In this step we will give our new service a name - `my-aws-workshop-app`.
 
-Under Environment variables, enter the Key as `REACT_APP_LD_CLIENT_ID`, and the value as the client-side ID from the LaunchDarkly.
+Under Environment variables, enter the Key as `REACT_APP_LD_SDK_KEY`, and the value as the client-side ID from the LaunchDarkly.
 
 Leave the rest of these settings as defaults.
 
