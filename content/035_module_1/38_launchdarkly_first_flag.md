@@ -4,7 +4,7 @@ chapter: true
 weight: 18
 ---
 
-In order to leverage LaunchDarkly, we need to configure Feature Flags that can be toggled on or off. One half of this configuation lives within your application code, and the other half lives within the LaunchDarkly platform. In this section, we will create our first feature flag in LaunchDarkly. 
+In order to leverage LaunchDarkly, we need to configure Feature Flags that can be toggled on or off. One half of this configuration lives within your application code, and the other half lives within the LaunchDarkly platform. In this section, we will create our first feature flag in LaunchDarkly. 
 
 <table class="credit">
 <tr class="credit"><td class="credit" style="width:100%">
