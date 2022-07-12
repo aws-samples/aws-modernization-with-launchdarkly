@@ -33,6 +33,7 @@ On the next step we will provide
 - Service name `my-aws-workshop-app`
 - Under Environment variables, click **Add environment variables**, and enter the Key as `REACT_APP_LD_CLIENT_ID`, and the value as the LaunchDarkly's *client-side ID* (Client-side ID from [AWS Test environment](https://app.launchdarkly.com/settings/projects/default/environments))
 
+
 Leave the rest of these settings as defaults, and click **Next** to continue.
 
 ![Source Service](/images/setup/configure-service.png)
