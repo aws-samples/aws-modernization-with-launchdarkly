@@ -30,7 +30,7 @@ Want to see the feature flag in code? You can see the flag we are creating in th
 1. Name the feature flag `upperimage` (which will also populate the Key with the `upperimage` value). Provide a description, and check the box for [*SDKs using Client-side ID*](https://docs.launchdarkly.com/home/getting-started/feature-flags#making-flags-available-to-client-side-and-mobile-sdks). The rest of the page can be optionally filled out. Once you've completed, select **Save flag** on the bottom.
 ![Image Flag](/images/setup/image-target-1.png)
 
-1. Within the feature flag configuration screen, select **Add user targets**, and for the true variation select the drop down arrow and type in your username. Select **Add User**. Enter a username, for example `workshop-user` or any other on your choice.
+1. Within the feature flag configuration screen, select **Add user targets** under **Individual targeting** section, and for the true variation select the drop down arrow and type in your username. Select **Add User**. Enter a username, for example `workshop-user` or any other on your choice.
 ![Add user target](/images/setup/user-target-1.png)
  
 
@@ -42,3 +42,5 @@ Want to see the feature flag in code? You can see the flag we are creating in th
 
 1. Return to our demo application and enter your username you configured above into the login box and select **Submit**. You should see the LaunchDarkly Osmo logo display on the screen. This dark launch is only visible to the user you configured, and does not render for any of the other users who access the application. 
 ![Targeting Demo](/images/setup/targeting-demo.gif)
+
+Learn more about the individual user targeting in [LaunchDarkly documentation](https://docs.launchdarkly.com/home/flags/targeting-users).

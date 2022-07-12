@@ -15,7 +15,8 @@ LaunchDarkly provides a 14-day trial for users to explore LaunchDarkly capabilit
 
 After creating your LaunchDarkly account and logging in, you'll be placed in your default project.
 
-2 . Navigate to the [Account settings/Projects tab](https://app.launchdarkly.com/settings/projects) and copy the **client-side ID** for the Test environment -- this will be used as a part of the App Runner configuration
+2 . Navigate to the [Account settings/Projects tab/AWS](https://app.launchdarkly.com/settings/projects/default/environments) and copy the **client-side ID** for the Test environment (juts click on it!)
+
 <img src=/images/setup/ld_client_id.png>
 {{% notice info %}}
 The Client-side ID will be used as a part of the App Runner configuration in the next step
@@ -24,7 +25,7 @@ The Client-side ID will be used as a part of the App Runner configuration in the
 <table class="credit">
 <tr class="credit"><td class="credit" style="width:100%">
 {{% notice note %}}
-The SDK keys on this page enable the LaunchDarkly SDKs to communicate back with the LaunchDarkly service. Integrating these SDKs allows your application to pull down feature flags values from the globally distributed Flag Delivery Network.
+The SDK keys on this page enable the [LaunchDarkly SDKs](https://docs.launchdarkly.com/sdk) to communicate back with the LaunchDarkly service. Integrating these SDKs allows your application to pull down feature flags values from the globally distributed Flag Delivery Network.
 {{% /notice %}}
 </td></tr>
 </table>

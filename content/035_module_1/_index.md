@@ -9,7 +9,7 @@ weight: 4
 
 ### Welcome
 
-In this workshop we will learn to perform a release of new features in our demo application, while its running live on AWS App Runner. Once we learn how to create and release features, we'll leverage user targeting to influence which users can consume additonal features. This method of software release is referred to as "dark launching" and it allows developers to release code to different user cohorts without changing their expereince or redeploying the application code. 
+In this workshop we will learn to perform a release of new features in our demo application, while its running live on [AWS App Runner](https://aws.amazon.com/apprunner/). Once we learn how to create and release features, we'll leverage user targeting to influence which users can consume additonal features. This method of software release is referred to as "dark launching" and it allows developers to release code to different user cohorts without changing their expereince or redeploying the application code. 
 
 In our applicatiom, we'll use these feature flags to demonstrate delivering these new features reliably, quickly and safely.
 

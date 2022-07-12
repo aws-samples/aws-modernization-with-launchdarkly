@@ -25,3 +25,5 @@ Want to see the feature flag in code? You can see the flag we are creating in th
 ![Create Service](/images/setup/create-flag-2.png)
 1. Turn on the feature flag and see the feature release in real-time
 ![Create Service](/images/setup/flag-demo.gif)
+
+Learn more about using the feature flags in [LaunchDarkly documentation](https://docs.launchdarkly.com/home/flags).
