@@ -1,7 +1,7 @@
 ---
 title: "Rule Based Targeting"
 chapter: true
-weight: 18
+weight: 19
 ---
 
 ## Rule Based Targeting
