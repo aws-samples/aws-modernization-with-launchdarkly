@@ -1,7 +1,7 @@
 ---
 title: "Introducing User Targeting"
 chapter: true
-weight: 17
+weight: 18
 ---
 
 ## Introducing User Targeting 
@@ -16,13 +16,11 @@ The ReactJS based application that is currently running in AWS App Runner suppor
 
 In this exercise, we will configure a second flag that will render a graphic based on the targeted user.
 
-<table class="credit">
-<tr class="credit"><td class="credit" style="width:100%">
+
 {{% notice note %}}
 Want to see the feature flag in code? You can see the flag we are creating in this step [here on line 24](https://github.com/launchdarkly-labs/ld-aws-devops-workshop/blob/f14b5aed952035cc22161c366ee06a3c686352ba/src/App.js#L24). Remember, you can view this in an IDE by pressing the . key within the GitHub repository. 
 {{% /notice %}}
-</td></tr>
-</table>
+
 
 1. Return to your LaunchDarkly dashboard and click [**Create flag**](https://app.launchdarkly.com/default/test/features/new), this will open a tab for configurations for the flag. 
 ![Create Service](/images/setup/create-flag-1.png)
